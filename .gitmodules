@@ -1,0 +1,12 @@
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/LuanAccioly/gateway-newsletter
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/LuanAccioly/web-newsletter
+[submodule "email-service"]
+	path = email-service
+	url = https://github.com/LuanAccioly/email-service-newsletter
+[submodule "crawler"]
+	path = crawler
+	url = https://github.com/LuanAccioly/crawler-newsletter
