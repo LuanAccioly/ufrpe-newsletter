@@ -1,8 +1,6 @@
 # ufrpe-newsletter
 
 ## Sumário
-- [ufrpe-newsletter](#ufrpe-newsletter)
-  - [Sumário](#sumário)
   - [Funcionamento do projeto](#funcionamento-do-projeto)
   - [Módulos](#módulos)
     - [frontend](#frontend)
